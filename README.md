@@ -4,7 +4,7 @@ Personal portfolio website built with pure HTML, CSS, and JavaScript. Hosted on 
 
 ## 🎨 Design
 
-- **Style:** Dark minimalist theme inspired by [ManishModak](https://github.com/ManishModak/ManishModak.github.io) and [Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+- **Style:** Dark minimalist theme inspired [Odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 - **Colors:** Deep slate background with cyan (`#5fb6cc`) and coral (`#e06c75`) accents
 - **Typography:** Inter, Space Grotesk, JetBrains Mono
 - **Effects:** Perlin noise flow-field background, glassmorphism cards, scroll reveal animations
