@@ -1,7 +1,7 @@
 # Tanmay Limje
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=5FB6CC&center=true&vCenter=true&width=500&lines=Developer;Builder;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=5FB6CC&center=true&vCenter=true&width=500&lines=Developer;Open+Source+Contributor;Builder;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,17 +13,19 @@
 ## 🚀 About Me
 
 ```typescript
-const taanmay = {
+const tanmay = {
   name: "Tanmay Limje",
-  role: "Developer & Builder",
+  role: "Developer & Open Source Contributor",
   location: "India",
-  passions: ["Building things", "Problem solving", "Open source"],
+  passions: ["Building things", "Open source", "Problem solving"],
   currentlyLearning: "Something new every day",
   funFact: "I break things just to figure out how to fix them better"
 };
 ```
 
 I build software with purpose. Every line of code is a step toward solving real problems.
+
+I'm an active **open source contributor** — I love fixing bugs, improving documentation, and building tools that help the developer community.
 
 ---
 
@@ -57,6 +59,34 @@ I build software with purpose. Every line of code is a step toward solving real 
 
 ---
 
+## 🏗️ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/TanmayLimje/widgetapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayLimje&repo=widgetapp&theme=dark&bg_color=0f1115&title_color=5fb6cc&text_color=e2e8f0&icon_color=e06c75&border_color=1a1d23&border_radius=12" alt="WidgetApp" />
+  </a>
+  <a href="https://github.com/TanmayLimje/hkm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayLimje&repo=hkm&theme=dark&bg_color=0f1115&title_color=5fb6cc&text_color=e2e8f0&icon_color=e06c75&border_color=1a1d23&border_radius=12" alt="HKM" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TanmayLimje/hemoscan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayLimje&repo=hemoscan&theme=dark&bg_color=0f1115&title_color=5fb6cc&text_color=e2e8f0&icon_color=e06c75&border_color=1a1d23&border_radius=12" alt="HemoScan" />
+  </a>
+  <a href="https://github.com/TanmayLimje/spacehavoc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayLimje&repo=spacehavoc&theme=dark&bg_color=0f1115&title_color=5fb6cc&text_color=e2e8f0&icon_color=e06c75&border_color=1a1d23&border_radius=12" alt="SpaceHavoc" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TanmayLimje/404-bots-not-found">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayLimje&repo=404-bots-not-found&theme=dark&bg_color=0f1115&title_color=5fb6cc&text_color=e2e8f0&icon_color=e06c75&border_color=1a1d23&border_radius=12" alt="404 Bots Not Found" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -66,28 +96,13 @@ I build software with purpose. Every line of code is a step toward solving real 
   <a href="https://linkedin.com/in/tanmay-limje" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f1115?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1d23" alt="LinkedIn" />
   </a>
-  <a href="mailto:tanmaylimje@gmail.com" target="_blank">
+  <a href="mailto:chintanmay777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0f1115?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1d23" alt="Email" />
-  </a>
-  <a href="https://twitter.com/tanmaylimje" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0f1115?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=1a1d23" alt="Twitter" />
   </a>
   <a href="https://tanmaylimje.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0f1115?style=for-the-badge&logo=vercel&logoColor=5fb6cc&labelColor=1a1d23" alt="Portfolio" />
   </a>
 </p>
-
----
-
-## 🏗️ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/TanmayLimje">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TanmayLimje&repo=REPO_NAME&theme=dark&bg_color=0f1115&title_color=5fb6cc&text_color=e2e8f0&icon_color=e06c75&border_color=1a1d23&border_radius=12" alt="Project" />
-  </a>
-</p>
-
-> **💡 Tip:** Replace `REPO_NAME` above with your actual repository names to showcase them!
 
 ---
 
