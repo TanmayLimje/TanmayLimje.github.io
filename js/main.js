@@ -16,7 +16,7 @@
     var dpr = Math.min(window.devicePixelRatio || 1, 2);
     var W, H, t = 0, particles = [];
     var COLORS = ['#5fb6cc', '#9cdef2', '#e06c75'];
-    var FADE = 'rgba(15, 17, 21, 0.06)';
+    var FADE = 'rgba(15, 17, 21, 0.03)';
 
     function n2(x, y) {
       var n = Math.sin(x * 12.9898 + y * 78.233) * 43758.5453;
@@ -41,7 +41,7 @@
       canvas.style.height = H + 'px';
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
       if (!particles.length) {
-        for (var i = 0; i < 280; i++) {
+        for (var i = 0; i < 400; i++) {
           particles.push({
             x: Math.random() * W,
             y: Math.random() * H,
@@ -75,9 +75,9 @@
         }
 
         ctx.beginPath();
-        ctx.arc(p.x, p.y, 1.1, 0, Math.PI * 2);
+        ctx.arc(p.x, p.y, 1.4, 0, Math.PI * 2);
         ctx.fillStyle = p.c;
-        ctx.globalAlpha = p.life * 0.18;
+        ctx.globalAlpha = p.life * 0.35;
         ctx.fill();
       }
       ctx.globalAlpha = 1;

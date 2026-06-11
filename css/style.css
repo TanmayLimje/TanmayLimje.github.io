@@ -228,24 +228,13 @@ section::before {
   justify-content: center;
   text-align: center;
   position: relative;
-  background:
-    radial-gradient(1100px 520px at 82% -10%, rgba(224, 108, 117, 0.08), transparent 60%),
-    radial-gradient(900px 520px at 0% 0%, rgba(53, 90, 102, 0.20), transparent 55%),
-    var(--bg-primary);
+  background: transparent;
 }
 
 .hero-content {
   max-width: 700px;
   position: relative;
   z-index: 2;
-}
-
-.hero-greeting {
-  font-family: var(--font-mono);
-  font-size: 0.9rem;
-  color: var(--text-accent);
-  margin-bottom: 16px;
-  letter-spacing: 0.05em;
 }
 
 .hero-name {
